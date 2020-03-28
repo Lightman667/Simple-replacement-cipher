@@ -1,0 +1,9 @@
+C:\Users\neina\source\repos\CriptographVlasova\CriptographVlasova\bin\Debug\CriptographVlasova.exe.config
+C:\Users\neina\source\repos\CriptographVlasova\CriptographVlasova\bin\Debug\CriptographVlasova.exe
+C:\Users\neina\source\repos\CriptographVlasova\CriptographVlasova\bin\Debug\CriptographVlasova.pdb
+C:\Users\neina\source\repos\CriptographVlasova\CriptographVlasova\obj\Debug\CriptographVlasova.csprojAssemblyReference.cache
+C:\Users\neina\source\repos\CriptographVlasova\CriptographVlasova\obj\Debug\CriptographVlasova.Form1.resources
+C:\Users\neina\source\repos\CriptographVlasova\CriptographVlasova\obj\Debug\CriptographVlasova.Properties.Resources.resources
+C:\Users\neina\source\repos\CriptographVlasova\CriptographVlasova\obj\Debug\CriptographVlasova.csproj.GenerateResource.cache
+C:\Users\neina\source\repos\CriptographVlasova\CriptographVlasova\obj\Debug\CriptographVlasova.exe
+C:\Users\neina\source\repos\CriptographVlasova\CriptographVlasova\obj\Debug\CriptographVlasova.pdb
